@@ -1,4 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Demo:-
+![chrome-capture-2022-7-8](https://user-images.githubusercontent.com/75971776/187989215-8d5e169d-9c96-4e1b-a98d-9a61869d04fb.gif)
 
 ## Available Scripts
 
